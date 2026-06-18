@@ -1,0 +1,37 @@
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - Session start time .......: 20260612_151323
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - Slicer version ...........: 5.10.0 (revision 34045 / a2b6d08) win-amd64 - installed release
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - Operating system .........: Windows /  Personal / (Build 26200, Code Page 65001) - 64-bit
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - Memory ...................: 16087 MB physical, 29911 MB virtual
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - CPU ......................: GenuineIntel , 12 cores, 12 logical processors
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - VTK configuration ........: OpenGL2 rendering, TBB threading
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - Qt configuration .........: version 5.15.2, with SSL, requested OpenGL 3.2 (core profile)
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - DCMTK configuration ......: version 3.6.8, no SSL
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - Internationalization .....: disabled, language=
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - Developer mode ...........: enabled
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - Application path .........: C:/Users/ASWIN SUNIL/AppData/Local/slicer.org/3D Slicer 5.10.0/bin
+[DEBUG][Qt] 12.06.2026 15:13:23 [] (unknown:0) - Additional module paths ..: D:/BCBMradoigenomics\RadiogenomicsUI, slicer.org/Extensions-34045/SlicerNeuroSegmentation/lib/Slicer-5.10/qt-scripted-modules, slicer.org/Extensions-34045/SlicerFreeSurfer/lib/Slicer-5.10/qt-loadable-modules, slicer.org/Extensions-34045/SlicerFreeSurfer/lib/Slicer-5.10/qt-scripted-modules
+[INFO][Stream] 12.06.2026 15:13:24 [] (unknown:0) -
+[WARNING][VTK] 12.06.2026 15:13:25 [] (unknown:0) - Generic Warning: In vtkSlicerApplicationLogic.cxx, line 827
+GetModuleHomeDirectory: failed to compute module home directory given filePath: D:/BCBMradoigenomics/RadiogenomicsUI/RadiogenomicsUI.py
+[DEBUG][Python] 12.06.2026 15:13:25 [Python] (C:\Users\ASWIN SUNIL\AppData\Local\slicer.org\3D Slicer 5.10.0\lib\Slicer-5.10\qt-scripted-modules\SubjectHierarchyPlugins\AbstractScriptedSubjectHierarchyPlugin.py:40) - Scripted subject hierarchy plugin registered: SegmentEditor
+[DEBUG][Python] 12.06.2026 15:13:25 [Python] (C:\Users\ASWIN SUNIL\AppData\Local\slicer.org\3D Slicer 5.10.0\lib\Slicer-5.10\qt-scripted-modules\SubjectHierarchyPlugins\AbstractScriptedSubjectHierarchyPlugin.py:40) - Scripted subject hierarchy plugin registered: SegmentStatistics
+[DEBUG][Qt] 12.06.2026 15:13:25 [] (unknown:0) - Switch to module:  "Welcome"
+[DEBUG][Qt] 12.06.2026 15:13:39 [] (unknown:0) - Switch to module:  "Volumes"
+[DEBUG][Qt] 12.06.2026 15:13:47 [] (unknown:0) - "Volume" Reader has successfully read the file "D:/BCBM-RadioGenomics_Images_Masks_Dec2024/BCBM-RadioGenomics-0-1/BCBM-RadioGenomics-0-1_image_ss_n4.nii.gz" "[0.29s]"
+[DEBUG][Qt] 12.06.2026 15:13:54 [] (unknown:0) - Switch to module:  "CurveComparison"
+[WARNING][Qt] 12.06.2026 15:15:17 [] (unknown:0) - An OpenGL Core Profile was requested, but it is not supported on the current platform. Falling back to a non-Core profile. Note that this might cause rendering issues.
+[CRITICAL][FD] 12.06.2026 15:15:17 [] (unknown:0) - [34660:15000:0612/151517.666:ERROR:tcp_socket_win.cc(352)] bind() returned an error: Only one usage of each socket address (protocol/network address/port) is normally permitted. (0x2740)
+[CRITICAL][FD] 12.06.2026 15:15:17 [] (unknown:0) - [34660:15000:0612/151517.666:ERROR:devtools_http_handler.cc(298)] Cannot start http server for devtools.
+[WARNING][Qt] 12.06.2026 15:15:17 [] (unknown:0) - Property 'verbose'' of object 'qSlicerWebPythonProxy' has no notify signal and is not constant, value updates in HTML will be broken!
+[WARNING][Qt] 12.06.2026 15:15:18 [] (unknown:0) - Property 'verbose'' of object 'qSlicerWebPythonProxy' has no notify signal and is not constant, value updates in HTML will be broken!
+[WARNING][Qt] 12.06.2026 15:15:22 [] (unknown:0) - "https://extensions.slicer.org/catalog/All/34045/win" 0 "Mixed Content: The page at 'https://extensions.slicer.org/catalog/All/34045/win' was loaded over HTTPS, but requested an insecure image 'http://wiki.slicer.org/slicerWiki/images/f/f6/IntensitySegmenterIcon.png'. This content should also be served over HTTPS."
+[WARNING][Qt] 12.06.2026 15:15:22 [] (unknown:0) - Mixed Content: The page at 'https://extensions.slicer.org/catalog/All/34045/win' was loaded over HTTPS, but requested an insecure image 'http://wiki.slicer.org/slicerWiki/images/f/f6/IntensitySegmenterIcon.png'. This content should also be served over HTTPS.
+[WARNING][Qt] 12.06.2026 15:15:33 [] (unknown:0) - Property 'verbose'' of object 'qSlicerWebPythonProxy' has no notify signal and is not constant, value updates in HTML will be broken!
+[WARNING][Qt] 12.06.2026 15:15:43 [] (unknown:0) - Property 'verbose'' of object 'qSlicerWebPythonProxy' has no notify signal and is not constant, value updates in HTML will be broken!
+[WARNING][Qt] 12.06.2026 15:15:43 [] (unknown:0) - "https://extensions.slicer.org/catalog/All/34045/win" 0 "A cookie associated with a cross-site resource at http://www.nitrc.org/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032."
+[WARNING][Qt] 12.06.2026 15:15:43 [] (unknown:0) - A cookie associated with a cross-site resource at http://www.nitrc.org/ was set without the `SameSite` attribute. A future release of Chrome will only deliver cookies with cross-site requests if they are set with `SameSite=None` and `Secure`. You can review cookies in developer tools under Application>Storage>Cookies and see more details at https://www.chromestatus.com/feature/5088147346030592 and https://www.chromestatus.com/feature/5633521622188032.
+[DEBUG][Qt] 12.06.2026 15:16:46 [] (unknown:0) - Retrieving extension metadata for SlicerThemes extension
+[DEBUG][Qt] 12.06.2026 15:16:46 [] (unknown:0) - Retrieving SlicerThemes extension files (extensionId: 69122adbac7b1c95e793b4ff)
+[DEBUG][Qt] 12.06.2026 15:16:47 [] (unknown:0) - Downloading SlicerThemes extension (item_id: 69122adbac7b1c95e793b4ff, file_id: 69122addac7b1c95e793b508)
+[DEBUG][Qt] 12.06.2026 15:16:50 [] (unknown:0) - Installed extension SlicerThemes (69122adbac7b1c95e793b4ff) revision b072c66
+[DEBUG][Qt] 12.06.2026 15:17:08 [] (unknown:0) - Switch to module:  ""

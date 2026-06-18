@@ -1,0 +1,20 @@
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - Session start time .......: 20260612_113712
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - Slicer version ...........: 5.10.0 (revision 34045 / a2b6d08) win-amd64 - installed release
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - Operating system .........: Windows /  Personal / (Build 26200, Code Page 65001) - 64-bit
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - Memory ...................: 16087 MB physical, 35095 MB virtual
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - CPU ......................: GenuineIntel , 12 cores, 12 logical processors
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - VTK configuration ........: OpenGL2 rendering, TBB threading
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - Qt configuration .........: version 5.15.2, with SSL, requested OpenGL 3.2 (core profile)
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - DCMTK configuration ......: version 3.6.8, no SSL
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - Internationalization .....: disabled, language=
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - Developer mode ...........: enabled
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - Application path .........: C:/Users/ASWIN SUNIL/AppData/Local/slicer.org/3D Slicer 5.10.0/bin
+[DEBUG][Qt] 12.06.2026 11:37:12 [] (unknown:0) - Additional module paths ..: D:/BCBMradoigenomics\RadiogenomicsUI
+[INFO][Stream] 12.06.2026 11:37:13 [] (unknown:0) -
+[WARNING][VTK] 12.06.2026 11:37:14 [] (unknown:0) - Generic Warning: In vtkSlicerApplicationLogic.cxx, line 827
+GetModuleHomeDirectory: failed to compute module home directory given filePath: D:/BCBMradoigenomics/RadiogenomicsUI/RadiogenomicsUI.py
+[DEBUG][Python] 12.06.2026 11:37:14 [Python] (C:\Users\ASWIN SUNIL\AppData\Local\slicer.org\3D Slicer 5.10.0\lib\Slicer-5.10\qt-scripted-modules\SubjectHierarchyPlugins\AbstractScriptedSubjectHierarchyPlugin.py:40) - Scripted subject hierarchy plugin registered: SegmentEditor
+[DEBUG][Python] 12.06.2026 11:37:14 [Python] (C:\Users\ASWIN SUNIL\AppData\Local\slicer.org\3D Slicer 5.10.0\lib\Slicer-5.10\qt-scripted-modules\SubjectHierarchyPlugins\AbstractScriptedSubjectHierarchyPlugin.py:40) - Scripted subject hierarchy plugin registered: SegmentStatistics
+[DEBUG][Qt] 12.06.2026 11:37:15 [] (unknown:0) - Switch to module:  "Welcome"
+[DEBUG][Qt] 12.06.2026 11:37:22 [] (unknown:0) - Switch to module:  "RadiogenomicsUI"
+[DEBUG][Qt] 12.06.2026 11:43:37 [] (unknown:0) - Switch to module:  ""
